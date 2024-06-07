@@ -18,5 +18,7 @@ I'm a passionate developer specializing in PHP and the MERN stack. I love creati
   - **PHP:** --
   - **Node js:**  --
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh-mishra-dev&show_icons=true&theme=radical)
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to connect.
 
