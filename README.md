@@ -14,5 +14,8 @@ I'm a passionate developer specializing in PHP and the MERN stack. I love creati
 - **Database:** MySQL, MongoDB
 - **Other Technologies:** HTML, CSS, Bootstrap, Git
 
+### Project
+  - **PHP:** 
+
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to connect.
 
