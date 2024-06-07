@@ -16,7 +16,7 @@ I'm a passionate developer specializing in PHP and the MERN stack. I love creati
 
 ### Projects
   - **PHP:** --
-  - - **Node js:**  --
+  - **Node js:**  --
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to connect.
 
