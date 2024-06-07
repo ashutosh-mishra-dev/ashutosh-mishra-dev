@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @ashutosh-mishra-dev
+# 👋 Hi, I’m Ashutosh Mishra
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning MERN Stack 
 - 📫 How to reach me ashutosh-mishra-dev
